@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://dailyquotesbot.xyz/about.html</loc>
-    </url>
-    <url>
-        <loc>https://dailyquotesbot.xyz/contact.html</loc>
-    </url>
-    <url>
-        <loc>https://dailyquotesbot.xyz/credits.html</loc>
-    </url>
-    <url>
-        <loc>https://dailyquotesbot.xyz/features.html</loc>
-    </url>
-    <url>
-        <loc>https://dailyquotesbot.xyz/index.html</loc>
-    </url>
-    <url>
-        <loc>https://dailyquotesbot.xyz/partners.html</loc>
-    </url>
-    <url>
-        <loc>https://dailyquotesbot.xyz/pricing.html</loc>
-    </url>
-    <url>
-        <loc>https://dailyquotesbot.xyz/tos.html</loc>
+        <loc>https://freegamesbot.xyz/tos.html</loc>
     </url>    
 </urlset>
