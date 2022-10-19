@@ -1,0 +1,6 @@
+# Dear Robot, be nice.
+
+User-Agent: *
+Allow: /
+
+# Goodbye!
